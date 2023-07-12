@@ -33,6 +33,7 @@
 </template>
 
 <script>
+import colors from "@/data/colors";
 export default {
   data() {
     return {
