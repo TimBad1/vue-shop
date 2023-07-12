@@ -1,5 +1,4 @@
 <template>
-
     <main class="content container">
       <div class="content__top content__top--catalog">
         <h1 class="content__title">
@@ -20,8 +19,6 @@
 
       </div>
     </main>
-
-
 </template>
 
 <script>
